@@ -6,7 +6,12 @@ This is a simple reverse-polish notation (RPN) calculator. For programmers verse
   10 - (4 + 3) * 2     [Not RPN]
   10 4 3 + 2 * -       [RPN]
 ```
-This is a pretty fun project which showcases some of the power of Haskell and functional languages, such as fold functions, point-free notation, pattern matching, and recursion. 
+This is a pretty fun project which showcases some of the power of Haskell and functional languages, such as:
+
+* fold functions
+* point-free form
+* pattern matching
+* recursion 
 
 ## To run rpn-calculator
 
