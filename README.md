@@ -13,4 +13,4 @@ This is a pretty fun project which showcases some of the power of Haskell and fu
 1. Make sure you have the latest version of GHCi (Glasgow Haskell Compiler).
 2. Clone this repository navigate to it via your command line.
 3. Run `ghci rpn-calculator`.
-4. Start evaluating some expressions, like: `> rpn-calc "10 4 3 + 2 * -"`.
+4. Start evaluating some expressions, like: `> rpnCalc "10 4 3 + 2 * -"`.
